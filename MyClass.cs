@@ -1,6 +1,8 @@
+using System;
+
 namespace Csharpworkflow
 {
-   class MyClass
+   public class MyClass
 {
     static void TryThis(string x){
             string s = x;
