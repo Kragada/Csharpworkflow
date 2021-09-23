@@ -8,10 +8,9 @@ namespace Csharpworkflow
         {
             Console.WriteLine("Hello my second World!");
             Console.WriteLine("Secondprintline");
+            new MyClass();
         }
         
-        static void TRYTHIS(){
-            string s = "test";
-        }
+        
     }
 }
