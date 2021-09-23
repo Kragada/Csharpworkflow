@@ -9,5 +9,9 @@ namespace Csharpworkflow
             Console.WriteLine("Hello my second World!");
             Console.WriteLine("Secondprintline");
         }
+        
+        static void TRYTHIS(){
+            string s = "test";
+        }
     }
 }
